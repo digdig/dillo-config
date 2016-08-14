@@ -150,7 +150,7 @@ start_page="ask.com"
 
 # Set the home location
 # home="file:/home/jcid/HomePage/Home.html"
-home="wiki.archlinux.org"
+home="www.archlinux.org"
 #home="http://www.dillo.org/"
 
 # Set the URLs used by the web search dialog.
