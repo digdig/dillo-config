@@ -51,6 +51,10 @@
 # "fc-list : family | cut -d ',' -f 2 | sort").
 #font_serif="DejaVu Serif"
 #font_sans_serif="DejaVu Sans"
+#font_serif="AR PL UMing CN"
+#font_sans_serif="AR PL UMing CN"
+font_serif="AR PL UKai CN"
+font_sans_serif="AR PL UKai CN"
 #font_cursive="URW Chancery L"
 #font_fantasy="DejaVu Sans"
 #font_monospace="DejaVu Sans Mono"
