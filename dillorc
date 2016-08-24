@@ -18,6 +18,7 @@
 # from the start. (While browsing, this can be changed from the tools/settings
 # menu.)
 #load_images=YES
+#load_images=NO
 
 # Change this if you want background images to be loaded initially.
 # (While browsing, this can be changed from the tools/settings menu.)
@@ -26,10 +27,12 @@
 # Change this if you want to disable loading of CSS stylesheets initially.
 # (While browsing, this can be changed from the tools/settings menu.)
 #load_stylesheets=YES
+#load_stylesheets=NO
 
 # Change this if you want to disable parsing of embedded CSS initially.
 # (While browsing, this can be changed from the tools/settings menu.)
 #parse_embedded_css=YES
+#parse_embedded_css=NO
 
 # Change the buffering scheme for drawing
 # 0 no double buffering - useful for debugging
@@ -148,13 +151,13 @@ font_sans_serif="AR PL UKai CN"
 # Set the start page.
 # start_page="about:blank"
 # start_page="http://www.dillo.org"
-start_page="ask.com"
+start_page="file:///home/luming/Documents/vimwiki/wiki-1/html/index.html"
 # start_page="file:/home/jcid/custom_page.html"
 #start_page="about:splash"
 
 # Set the home location
 # home="file:/home/jcid/HomePage/Home.html"
-home="www.archlinux.org"
+home="file:///home/luming/Documents/vimwiki/wiki-1/html/diary/diary.html"
 #home="http://www.dillo.org/"
 
 # Set the URLs used by the web search dialog.
